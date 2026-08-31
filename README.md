@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tony 👋
 
-<!--
-**tonybotros1/tonybotros1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Software Engineer
 
-Here are some ideas to get you started:
+I build intelligent and practical software solutions using **AI, Machine Learning, Computer Vision, Backend Development, and Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on real-world systems involving **AI, healthcare technology, data processing, reporting, and enterprise automation**.
+
+### 🧠 AI & Engineering
+
+* Machine Learning & Deep Learning
+* Computer Vision & Image Processing
+* NLP & Intelligent Systems
+* AI Automation
+* Model Training & Evaluation
+
+### 💻 Development
+
+* Python
+* FastAPI
+* Flutter / Dart
+* SQL Server
+* MongoDB
+* REST APIs
+
+### 🛠 Experience
+
+* AI-powered applications
+* Computer Vision systems
+* Backend APIs & databases
+* Enterprise workflow automation
+* SQL reporting & data analysis
+* Tableau & live database dashboards
+
+### 🚀 Currently Exploring
+
+Building smarter AI systems and turning real-world problems into practical software solutions.
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/tonybotros/)
